@@ -147,3 +147,4 @@ if selected == "Parkinson's Prediction":
             st.error("⚠️ The person is likely to have Parkinson's Disease")
         else:
             st.success("✅ The person does NOT have Parkinson's Disease")
+#1234567890987ygggjnfdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddrre245678
