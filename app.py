@@ -148,3 +148,4 @@ if selected == "Parkinson's Prediction":
         else:
             st.success("✅ The person does NOT have Parkinson's Disease")
 #1234567890987ygggjnfdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddrre245678
+#123456789erfvcrfvgit add .
