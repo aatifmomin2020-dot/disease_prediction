@@ -203,4 +203,7 @@ shapes = [
 for shape in shapes:
     print("Area:", shape.area())
 >>>>>>> b5a7fc2ab14cb186f692355767353b83b801389d
-#234t5ryhgnbfvdewrtyuyjhgtryuyi
+#234t5ryhgnbfvdewrtyuyjhgtryuyi 
+# my self md from mgmmu jnec i wanted to crack gsoc any how ::""oifhaoaifhwoeifhweoi
+hklhklhodhfihso;ifh
+akjsfbkajbfboahfoia
